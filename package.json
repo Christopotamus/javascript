@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/emitter-io/javascript#readme",
   "dependencies": {
+    "buffer": "^5.2.1",
     "mqtt": ">=1.7.4 <=1.11.2"
   },
   "devDependencies": {
